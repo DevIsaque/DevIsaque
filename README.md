@@ -56,5 +56,5 @@
 
 ### 📊 Estatísticas
 
-| <img src="https://github-readme-stats.vercel.app/api?username=DevIsaque&show_icons=true&theme=dracula" height="200"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevIsaque&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" height="200"/> |
-|:--:|:--:|
+ <img src="https://github-readme-stats.vercel.app/api?username=DevIsaque&show_icons=true&theme=dracula" height="200"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevIsaque&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" height="200"/> 
+

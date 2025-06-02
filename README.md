@@ -1,6 +1,6 @@
 # Isaque Matarazzo
 
-**🇧🇷** Me chamo Isaque da Silva Andrade Matarazzo, tenho 18 anos e sou natural de São Paulo. Atualmente, estou cursando Ciências da Computação na UNIP Sorocaba. Sou apaixonado por tecnologia e compartilho meus conhecimentos tanto aqui como no [Linkedin](https://www.linkedin.com/in/isaque-matarazzo-880091349/), onde mostro minha carreira completa!
+**🇧🇷** Me chamo Isaque da Silva Andrade Matarazzo, tenho 18 anos e sou natural de São Paulo. Atualmente, estou cursando Ciências da Computação na UNIP Sorocaba. Sou apaixonado por tecnologia e compartilho meus conhecimentos tanto aqui quanto no [Linkedin](https://www.linkedin.com/in/isaque-matarazzo-880091349/), onde mostro minha carreira completa!
 
 **🇺🇸** My name is Isaque da Silva Andrade Matarazzo, I'm 18 years old and I'm from São Paulo. I'm currently studying Computer Science at UNIP Sorocaba. I'm passionate about technology and I share my knowledge both here and on [Linkedin](https://www.linkedin.com/in/isaque-matarazzo-880091349/), where I show my complete career!
 

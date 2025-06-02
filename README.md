@@ -68,7 +68,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevIsaque&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=7&hide_border=true" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevIsaque&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=3&hide_border=true" 
   />
 
 </p>
